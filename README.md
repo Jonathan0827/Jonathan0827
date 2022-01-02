@@ -1,1 +1,1 @@
-<a href="https://apple.com"><button>apple<a>
+<a href="https://apple.com" style="Font-Color: Blue;">apple<a>
