@@ -1,1 +1,1 @@
-<a href="https://apple.com" style="Font-Color: Blue;">apple<a>
+<a href="mailto://" style="Font-Color: Blue;">mail<a>
