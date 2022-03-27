@@ -5,6 +5,6 @@
   </div>
  Using VS Code
   <div>
- Waiting GitHub Copilot waitlist
+ Waiting GitHub Copilot
   </div>
  </h2>
