@@ -1,10 +1,2 @@
-<h1><a href="mailto:Do not contact me" style="Font-Color: Blue;">Do <strong>not</strong> contact me<a></h1>
- <h2>
-  <div>
- Using M1 MacBook Air Gold, iPad Air 3 
-  </div>
- Using VS Code
-  <div>
- I got GitHub Copilot!
-  </div>
- </h2>
+###Hello 👋
+![Jun Hyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan0827&show_icons=true)
