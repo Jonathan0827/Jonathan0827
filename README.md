@@ -2,9 +2,3 @@
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonathan0827&theme=github)
 # Hello 👋
 My name is Jun Hyeop
-# Games that I play
-Forza Horizon
-<br>
-Minecraft JE
-<br>
-OverWatch
