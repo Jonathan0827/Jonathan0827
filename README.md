@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋. I am Jonathan0827</h1>
 <h3 align="center">Student of South Korea</h3>
 
-- 🌱 I’m currently learning **JavaScript, SwiftUI, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, SwiftUI, HTML, CSS, React**
 
 - 📫 How to reach me **onetime.florals.0j@icloud.com**
 
