@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan0827&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jonathan0827" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan0827&show_icons=true&theme=dracula&title_color=000000&locale=en" alt="jonathan0827" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan0827&show_icons=true&theme=dracula" alt="jonathan0827" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan0827&theme=dark" alt="jonathan0827" /></p>
