@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋 I am Jonathan0827</h1>
+<h1 align="center">Hello 👋<br /> I am Jonathan0827</h1>
 <h3 align="center">Student of South Korea</h3>
 
-- 🌱 I’m currently learning **JavaScript, SwiftUI, HTML, CSS, React**
+- 🧑‍💻 I’m currently learning **JavaScript, SwiftUI, HTML, CSS, React Native**
 
-- 📫 How to reach me **<a href="mailto:junehyeop@jonathan.kro.kr">email</a>**
+- 📞 How to reach me: **<a href="mailto:junehyeop@jonathan.kro.kr">email</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
