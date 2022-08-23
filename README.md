@@ -3,10 +3,8 @@
 
 - 🧑‍💻 I’m currently learning **JavaScript, SwiftUI, HTML, CSS, React Native**
 
-- 📞 How to reach me: **<a href="mailto:junehyeop@jonathan.kro.kr">email</a>**
+- 📞 How to reach me: **<a href="mailto:junehyeop@jonathan.kro.kr">email</a>, <a href="https://jonathan.kro.kr">Web Site</a>**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
