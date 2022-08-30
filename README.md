@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋<br /> I am Jonathan0827</h1>
-<h3 align="center">Student of South Korea</h3>
+<h1 align="center">Hello 👋</h1>
+<h2 align="center">Jonathan0827,
+Student of South Korea</h2>
 
 - 🧑‍💻 I’m currently learning **JavaScript, SwiftUI, HTML, CSS, React Native**
 
