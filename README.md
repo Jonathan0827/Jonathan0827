@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋</h1>
 <h2 align="center">Jonathan0827,
-Student of South Korea</h2>
+Student of South Korea 🇰🇷</h2>
 
-- 🧑‍💻 I’m currently learning **JavaScript, SwiftUI, HTML, CSS, React Native**
+- 🧑‍💻 Currently learning **JavaScript, SwiftUI, HTML, CSS, React Native**
 
 - 📞 How to reach me: **<a href="mailto:junehyeop@jonathan.kro.kr">email</a>, <a href="https://jonathan.kro.kr">Web Site</a>**
 
@@ -13,6 +13,6 @@ Student of South Korea</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan0827&show_icons=true&layout=compact&locale=en&exclude_repo=msi-cx61-2od-EFI" alt="jonathan0827" /></p>
 <hr>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=jonathan0827&show_icons=true" alt="jonathan0827" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan0827&theme=white" alt="jonathan0827" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan0827&show_icons=true" alt="jonathan0827" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan0827&theme=white" alt="jonathan0827" />
 </p>
