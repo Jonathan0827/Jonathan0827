@@ -18,4 +18,4 @@
 <h3 align="left">GitHub Stats</h3>
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jonathan0827&show_icons=true&border_radius=10&count_private=true&include_all_commits=true" alt="jonathan0827" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan0827&border_radius=10" alt="jonathan0827" /></p>
-<img src="https://gh-hits.nomadcoders.workers.dev/view?username=Jonathan0827">
+<p align="center"><img src="https://gh-hits.nomadcoders.workers.dev/view?username=Jonathan0827"></p>
