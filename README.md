@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan0827&label=Profile%20views&color=016e8f&style=flat" alt="jonathan0827" /> </p> -->
 
-- 🌱 I’m currently learning **Swift, Node JS, React Native**
+- 🌱 I’m currently learning **SwiftUI, Node JS, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jonathan0827?tab=repositories](https://github.com/Jonathan0827?tab=repositories)
 
