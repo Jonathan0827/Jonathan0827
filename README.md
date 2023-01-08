@@ -1,4 +1,4 @@
-<h1 align="center">Happy New Year! 👋 <br> Jonathan0827,</h1>
+<h1 align="center">Hello! 👋 <br> Jonathan0827,</h1>
 <h3 align="center">Student of South Korea</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan0827&label=Profile%20views&color=016e8f&style=flat" alt="jonathan0827" /> </p> -->
