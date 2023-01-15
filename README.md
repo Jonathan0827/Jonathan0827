@@ -1,6 +1,5 @@
 <h1 align="center">Hey! 👋 <br> Jonathan0827,</h1>
 <h3 align="center">The student of South Korea</h3>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan0827&label=Profile%20views&color=016e8f&style=flat" alt="jonathan0827" /> </p> -->
 
 - 🌱 I’m currently learning **SwiftUI**
