@@ -5,8 +5,8 @@
 <h3 align="center">The student of South Korea</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan0827&label=Profile%20views&color=016e8f&style=flat" alt="jonathan0827" /> </p> -->
 
-- 🌱 I’m currently learning **SwiftUI**
-
+- 🌱 I’m learning **SwiftUI**
+- 🔧 I'm making **[School App](https://github.com/Jonathan0827/YourSchool)**
 - 👨‍💻 My public repositories can be found [here](https://github.com/Jonathan0827?tab=repositories)
 
 - ✉️ Discord
