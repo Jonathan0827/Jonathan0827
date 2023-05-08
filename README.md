@@ -2,7 +2,7 @@
 <p align="center">
 (Or Jun Hyeop Lim)
 </p>
-<h3 align="center">The student of South Korea</h3>
+<h3 align="center">A student of South Korea</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan0827&label=Profile%20views&color=016e8f&style=flat" alt="jonathan0827" /> </p> -->
 
 - 🌱 I’m learning **SwiftUI**
