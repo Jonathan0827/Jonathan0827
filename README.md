@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan0827&label=Profile%20views&color=016e8f&style=flat" alt="jonathan0827" /> </p> -->
 
 - 🌱 I’m learning **SwiftUI**
-- 🔧 I'm making **[School App](https://github.com/Jonathan0827/WonsinheungMid)**
+- 🔧 I'm making **[iOSMan](https://github.com/Jonathan0827/iOSMan)**
 - 👨‍💻 My public repositories can be found [here](https://github.com/Jonathan0827?tab=repositories)
 
 - ✉️ Discord
