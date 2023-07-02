@@ -20,4 +20,4 @@
 <h3 align="left">GitHub Stats</h3>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jonathan0827&show_icons=true&border_radius=10&count_private=false&include_all_commits=false&theme=prussian&hide_border=true" alt="jonathan0827" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan0827&border_radius=10&theme=prussian&hide_border=true" alt="jonathan0827" /></p>
-<p align="left"><img src="https://gh-hits.nomadcoders.workers.dev/view?username=Jonathan0827"></p>
+<!-- <p align="left"><img src="https://gh-hits.nomadcoders.workers.dev/view?username=Jonathan0827"></p>-->
