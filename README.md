@@ -6,7 +6,7 @@
 - 🔧 I'm making **[iOSMan](https://github.com/Jonathan0827/iOSMan)**
 - 👨‍💻 My public repositories can be found [here](https://github.com/Jonathan0827?tab=repositories)
 
-- ✉️ Discord
+- ✉️ Discord (Not Found)
 ![discordStat](https://discord.c99.nl/widget/theme-1/956112430931521546.png)
 <h3 align="right">Languages and Tools:</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan0827&show_icons=true&locale=en&layout=compact&border_radius=10&theme=prussian&hide_border=true&exclude_repo=msi-cx61-2od-EFI" alt="jonathan0827" /></p>
