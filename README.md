@@ -1,4 +1,4 @@
-### 🌱 I’m learning **React**
+### 🌱 I’m learning **React, Swift**
 ### ✉️ Discord (Not Found)
 
 ![discordStat](https://discord.c99.nl/widget/theme-1/956112430931521546.png)
